@@ -17,8 +17,7 @@ The **Real Estate App** is a Java-based desktop application developed in **Apach
 ## 🛠️ Technologies Used
 - **Java** (Swing for UI)
 - **Apache NetBeans** (Development Environment)
-- **SQLite/MySQL** (Database for storing user and property data)
-- **Maven** (Dependency management)
+- **MySQL** (Database for storing user and property data)
 
 ## 📷 Screenshots
 
@@ -46,32 +45,7 @@ The **Real Estate App** is a Java-based desktop application developed in **Apach
 ### 8. Purchase Confirmation
 ![Purchase Confirmation](images/purchase_confirmation.png)
 
-## 🔧 Installation Guide
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/RealEstateApp.git
-   ```
-2. **Open in NetBeans**:
-   - Open NetBeans.
-   - Click **File** → **Open Project**.
-   - Select the **RealEstateApp** folder.
-3. **Configure Database**:
-   - Import the provided `.sql` file into your database (if applicable).
-   - Update database credentials in the code if needed.
-4. **Run the application**:
-   - Click **Run** in NetBeans to start the app.
-
 ## 🛠 Future Enhancements
-- Implement role-based access (Admin vs. Users).
 - Improve UI/UX with better design and responsiveness.
 - Integrate an email notification system for purchases.
-
-## 🤝 Contributing
-If you'd like to contribute, feel free to fork the repository and submit a pull request!
-
-## 📄 License
-This project is licensed under the **MIT License**.
-
----
-🎉 **Enjoy managing real estate properties with this application!**
 
